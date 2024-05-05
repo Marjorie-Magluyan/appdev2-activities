@@ -1,0 +1,15 @@
+Case Study #1
+
+As an experienced professional in the software industry, you are currently employed at a company that has developed its own software solution, integrating various third-party software components. Recently, your team encountered a significant challenge with one of your third-party software providers. The provider notified you that they would cease support for your current implementation and required you to upgrade your codebase to align with their new implementation standards.
+
+This unexpected development prompted your team to reflect on your processes and consider preventive measures to mitigate similar challenges in the future. While this issue primarily concerns the third-party software provider, it raises questions about your approach to software integration and dependency management.
+
+For this activity, simply choose one question you wish to answer.
+
+
+How can you improve your communication and relationship with third-party software providers to stay informed about upcoming changes or updates?
+
+ANSWER:
+	It is critical that we foster communication and build collaborative interactions. We should maintain regular communication with the provider of software to ensure that you are always mindful of any adjustments or improvements that may occur in the future. This may be accomplished through collaborative social media platforms, planned meetings, email, etc. Furthermore, you should continually monitor developments in technology to predict possible changes in the software system.
+
+
